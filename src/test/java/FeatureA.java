@@ -4,6 +4,7 @@ public class FeatureA {
 
 
         System.out.println("1st feature");
+        System.out.println("2nd feature");
     }
 
 }
