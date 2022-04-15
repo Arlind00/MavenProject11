@@ -1,1 +1,1 @@
-second file directly from GitHub
+second file directly, from GitHub
