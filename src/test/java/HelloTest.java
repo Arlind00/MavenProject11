@@ -4,5 +4,8 @@ public class HelloTest {
 
         System.out.println("HelloTest");
         System.out.println("Allahini seven defansa gelsin");
+        System.out.println("look at ze tabelaaa");
+        System.out.println("flashe leer");
+
     }
 }
