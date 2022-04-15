@@ -7,5 +7,7 @@ public class featureB {
         System.out.println("featureB");
 
         System.out.println("second");
+
+        //anything
     }
 }
