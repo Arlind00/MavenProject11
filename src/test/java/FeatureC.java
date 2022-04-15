@@ -1,4 +1,4 @@
-public class FetureC {
+public class FeatureC {
 
 
     // work1
